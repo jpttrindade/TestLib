@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mmomlib-1.1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jpttrindade.mmomlib/mmomlib/1.1.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jpttrindade.mmomlib/mmomlib/1.1.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jpttrindade.mmomlib/mmomlib/1.1.6/415b8acff18dd6033f9e3e7d4752dc119b23b2b5/mmomlib-1.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
